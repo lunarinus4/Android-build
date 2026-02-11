@@ -48,9 +48,10 @@ repair.
 
 The master index containing metadata for all 200 applications.
 
-**Fields include:** - Source code links\
-- Publication years\
-- Programming languages\
+**Fields include:** 
+- Source code links
+- Publication years
+- Programming languages
 - Build status summary
 
 ------------------------------------------------------------------------
