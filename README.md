@@ -16,9 +16,6 @@ This project is licensed under the **MIT License**.
 ## 📂 200 Applications Compilation Dataset
 
 This repository contains a comprehensive dataset documenting the build processes, error logs, and issue resolutions for **200 open-source applications**.
-
-The dataset covers the full spectrum of compilation outcomes—from successful "out-of-the-box" builds to complex failures requiring manual intervention. It also includes a specialized research section on using **Large Language Models (LLMs)** for automated error diagnosis and code repair.
-
 ---
 
 ## 🗂️ Directory Structure
